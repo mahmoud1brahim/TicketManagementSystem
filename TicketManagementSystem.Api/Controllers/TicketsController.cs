@@ -1,10 +1,7 @@
 ﻿using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using TicketManagementSystem.Application.Commands;
 using TicketManagementSystem.Application.Commands.CreateTicket;
 using TicketManagementSystem.Application.Commands.HandleTicket;
-using TicketManagementSystem.Application.Queries;
 using TicketManagementSystem.Application.Queries.GetTickets;
 
 namespace TicketManagementSystem.Api.Controllers

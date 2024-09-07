@@ -1,10 +1,4 @@
 ﻿using Moq;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TicketManagementSystem.Application.Commands.CreateTicket;
 using TicketManagementSystem.Application.Commands.HandleTicket;
 using TicketManagementSystem.Application.Interfaces;
 using TicketManagementSystem.Domain.Entities;

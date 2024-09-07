@@ -1,11 +1,6 @@
 ﻿using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TicketManagementSystem.Application.Commands.HandleTicket;
 using TicketManagementSystem.Application.Interfaces;
 using TicketManagementSystem.Domain.Enums;

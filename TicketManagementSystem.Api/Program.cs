@@ -1,11 +1,9 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using Microsoft.OpenApi.Models;
 using System.Reflection;
 using TicketManagementSystem.Api.Middleware;
 using TicketManagementSystem.Application.Commands.CreateTicket;
 using TicketManagementSystem.Application.Interfaces;
-using TicketManagementSystem.Infrastructure;
 using TicketManagementSystem.Infrastructure.Persistence;
 using TicketManagementSystem.Infrastructure.Persistence.Repositories;
 
